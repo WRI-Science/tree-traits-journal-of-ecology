@@ -1,0 +1,16 @@
+cluster
+ggplot2
+dplyr
+tidyr
+data.table
+vegan
+terra
+sf
+rnaturalearth
+tidyterra
+viridis
+scales
+pals
+ggrepel
+patchwork
+cowplot

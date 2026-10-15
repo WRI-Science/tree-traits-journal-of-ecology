@@ -1,0 +1,10 @@
+# Local outputs (do not commit)
+output/
+*.tif
+*.vrt
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+.DS_Store
