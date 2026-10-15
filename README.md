@@ -24,7 +24,7 @@ This repository contains **scripts** and the **species trait table**. Large geos
 ## Data availability
 
 **Species traits (this repository).**  
-`data/traits_95_west_conus.csv` is included here. After connecting this repository to [Zenodo](https://zenodo.org) and cutting a GitHub Release, cite the Zenodo DOI for this archive (update this paragraph when the DOI is minted).
+`data/traits_95_west_conus.csv` is archived with the analysis code at Zenodo: https://doi.org/10.5281/zenodo.23401676 (release `v1.0.1`).
 
 **TreeMap 2016.**  
 Riley, K.L.; Grenfell, I.C.; Finney, M.A.; Shaw, J.D. 2021. TreeMap 2016: A tree-level model of the forests of the conterminous United States circa 2016. Fort Collins, CO: Forest Service Research Data Archive. https://doi.org/10.2737/RDS-2021-0074
@@ -33,12 +33,12 @@ Riley, K.L.; Grenfell, I.C.; Finney, M.A.; Shaw, J.D. 2021. TreeMap 2016: A tree
 LANDFIRE. Fire Regime Groups. https://www.landfire.gov/fire-regime/frg (LF 2016 Remap / FRG products as used in the study).
 
 **Analysis code.**  
-This GitHub repository: https://github.com/WRI-Science/tree-traits-journal-of-ecology  
-(Optional: cite the Zenodo DOI of a versioned release once available.)
+GitHub: https://github.com/WRI-Science/tree-traits-journal-of-ecology  
+Zenodo (preferred citation): https://doi.org/10.5281/zenodo.23401676
 
 ### Draft Data Availability Statement (for the manuscript)
 
-> Species trait data supporting this study are available in Zenodo at [DOI TO BE ADDED] ([short citation TO BE ADDED]). TreeMap 2016 data are available from the USDA Forest Service Research Data Archive (Riley et al. 2021; https://doi.org/10.2737/RDS-2021-0074). LANDFIRE Fire Regime Groups data are available from https://www.landfire.gov/fire-regime/frg. Analysis code is available at https://github.com/WRI-Science/tree-traits-journal-of-ecology.
+> Species trait data and analysis code supporting this study are available in Zenodo at https://doi.org/10.5281/zenodo.23401676. TreeMap 2016 data are available from the USDA Forest Service Research Data Archive (Riley et al. 2021; https://doi.org/10.2737/RDS-2021-0074). LANDFIRE Fire Regime Groups data are available from https://www.landfire.gov/fire-regime/frg. A working copy of the code is also available at https://github.com/WRI-Science/tree-traits-journal-of-ecology.
 
 ---
 
@@ -107,7 +107,5 @@ See `DEPENDENCIES.md` and `packages.txt`.
 
 ## Zenodo (DOI for the journal)
 
-1. Sign in at https://zenodo.org with GitHub.
-2. Enable this repository under Zenodo → GitHub.
-3. Create a GitHub Release (or use the release shipped with this deposit).
-4. Copy the Zenodo DOI into the Data Availability Statement and reference list above.
+Archived release: **https://doi.org/10.5281/zenodo.23401676** (`v1.0.1`).  
+Record page: https://zenodo.org/records/23401676
